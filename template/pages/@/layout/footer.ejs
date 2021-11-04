@@ -133,39 +133,7 @@ const networksWithColors = [
         </div>
       </div>
 
-      <div class="col-12 col-sm-6 col-lg">
-        <a
-          class="footer__title"
-          data-toggle="collapse"
-          href="#footer-categories"
-          role="button"
-          aria-expanded="false"
-          aria-controls="footer-instagram"
-        >
-          Instagram
-        </a>
-        <script src="https://www.sowecms.com/demos/InstagramFeed/dist/InstagramFeed.min.js"></script>
-        <div id="instagram-feed" class="instagram_feed"></div>
-        <script>
-        (function(){
-            new InstagramFeed({
-                'username': 'carlotamaricota',
-                'container': document.getElementById("instagram-feed"),
-                'display_profile': false,
-                'display_biography': false,
-                'display_gallery': true,
-                'callback': null,
-                'styling': true,
-                'items': 4,
-                'items_per_row': 2,
-                'margin': 1
-            });
-        })();
-      </script>
-      </div>
-
-
-
+ 
       <div class="col-12 col-xl-5 order-lg-first">
         <h2 class="footer__title footer__store">
           <%= footer.description.title || _.settings.name %>
