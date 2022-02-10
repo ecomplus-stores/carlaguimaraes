@@ -1,5 +1,5 @@
 {
-  "domain": "carlaguimaraes.netlify.app",
+  "domain": "www.shopcarlaguimaraes.com.br",
   "currency_symbol": "R$",
   "primary_color": "#bd0267",
   "theme": {
@@ -7,6 +7,7 @@
     "custom": "_"
   },
   "bg_color": "#ffffff",
+  "repository": "ecomplus-stores/carlaguimaraes",
   "logo": "/img/uploads/logo-1-.png",
   "name": "Shop Carla Guimarães",
   "short_name": "Shop Carla Guimarães",
