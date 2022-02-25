@@ -37,10 +37,14 @@
       "type": "responsive-banner",
       "img": "/img/uploads/tarjeta.png"
     },
-    {
+{
       "type": "collection-shelf",
-      "shuffle": true,
-      "collection_id": null
+      "shuffle": false,
+      "collection_id": null,
+      "sort": "sales",
+      "title": "Os Preferidos!",
+      "limit": "",
+      "page": ""
     }
   ]
 }
