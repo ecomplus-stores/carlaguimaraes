@@ -5,7 +5,7 @@
     {
       "type": "banner-slider",
       "autoplay": 9000,
-      "full_width": false,
+      "full_width": true,
       "slides": [
         {
           "img": "/img/uploads/1.jpg",
@@ -53,7 +53,7 @@
       "type": "responsive-banner",
       "img": "/img/uploads/tarjeta.png"
     },
-{
+    {
       "type": "collection-shelf",
       "shuffle": false,
       "collection_id": null,
@@ -61,6 +61,22 @@
       "title": "Os Preferidos!",
       "limit": "",
       "page": ""
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "sort": "news",
+      "title": "Lançamentos"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "sort": "offers",
+      "title": "Promoção"
     }
   ]
 }
