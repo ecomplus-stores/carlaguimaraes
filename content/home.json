@@ -7,29 +7,44 @@
       "autoplay": 9000,
       "slides": [
         {
+          "img": "/img/uploads/1.jpg",
+          "link": "",
+          "alt": "Bem vindo",
           "start": "",
           "end": "",
-          "img": "/img/uploads/1.jpg"
+          "mobile_img": ""
         },
         {
+          "img": "/img/uploads/2.jpeg",
+          "link": "",
+          "alt": "",
           "start": "",
           "end": "",
-          "img": "/img/uploads/2.jpeg"
+          "mobile_img": ""
         },
         {
+          "img": "/img/uploads/3.jpeg",
+          "link": "",
+          "alt": "",
           "start": "",
           "end": "",
-          "img": "/img/uploads/3.jpeg"
+          "mobile_img": ""
         },
         {
+          "img": "/img/uploads/4.jpg",
+          "link": "",
+          "alt": "",
           "start": "",
           "end": "",
-          "img": "/img/uploads/4.jpg"
+          "mobile_img": ""
         },
         {
+          "img": "/img/uploads/3eb1533e00f2d4d36fbcfaa42a4cef59.jpg",
+          "link": "",
+          "alt": "",
           "start": "",
           "end": "",
-          "img": "/img/uploads/3eb1533e00f2d4d36fbcfaa42a4cef59.jpg"
+          "mobile_img": ""
         }
       ]
     },
