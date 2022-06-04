@@ -86,11 +86,6 @@
       "title": "Promoções"
     },
     {
-      "type": "dynamic-showcase",
-      "load_more": true,
-      "sort": "lowest_price"
-    },
-    {
       "type": "brands-carousel",
       "limit": 24,
       "offset": 0,
