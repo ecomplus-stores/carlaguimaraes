@@ -14,7 +14,13 @@
     "socials": true
   },
   "categories_list": {
-    "featured": [],
+    "featured": [
+      "/cabelos/?Cabelos",
+      "/cronograma-capilar/?Cronograma Capilar",
+      "/combos/?Combos",
+      "/equipamentos/?Equipamentos",
+      "/promocoes/?Promoções"
+    ],
     "random": 5,
     "full_width": false
   },
