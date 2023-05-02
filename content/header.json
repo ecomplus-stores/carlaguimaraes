@@ -19,9 +19,10 @@
       "/cronograma-capilar/?Cronograma Capilar",
       "/combos/?Combos",
       "/equipamentos/?Equipamentos",
-      "/promocoes/?Promoções"
+      "/promocoes/?Promoções",
+      "/escovas-progressivas-definitivas/?Escovas Progressivas/Definitivas"
     ],
-    "random": 5,
+    "random": 6,
     "full_width": false
   },
   "search_input": true,
