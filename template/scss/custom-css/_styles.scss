@@ -7,3 +7,14 @@ button.close {
     right: 10px;
     top: 10px;
 }
+@media (min-width: 992px) {
+    .gallery__item--video {
+        background: red;
+        border-radius: 5px;
+        color: #fff;
+        font-size: 12px !important;
+        font-weight: bold;
+        opacity: 1 !important;
+        padding: var(--spacer-2) 0;
+    }
+}
