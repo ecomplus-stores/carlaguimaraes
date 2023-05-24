@@ -83,6 +83,10 @@
       "offset": 0,
       "sort": "name",
       "autoplay": 5000
+    },
+    {
+      "type": "responsive-banner",
+      "img": "https://www.shopcarlaguimaraes.com.br/escova-progressiva-fusion-frizz-organicplastia-1000ml---brscience"
     }
   ]
 }
