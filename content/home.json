@@ -16,35 +16,21 @@
           "mobile_img": ""
         },
         {
-          "img": "/img/uploads/6x-sem-juros.jpeg",
-          "link": "",
-          "alt": "Parcele em até 6x sem juros. Confira as condições.",
-          "start": "",
-          "end": "",
-          "mobile_img": ""
-        },
-        {
-          "img": "/img/uploads/frete-gratis.jpeg",
-          "link": "",
-          "alt": "Frete Grátis nas compras acima de R$200,00",
-          "start": "",
-          "end": "",
-          "mobile_img": ""
-        },
-        {
-          "img": "/img/uploads/keratin-selagem.jpeg",
-          "link": "https://www.shopcarlaguimaraes.com.br/bbtox-keratin-selagem-dos-fios-rovely-1kg",
-          "alt": "Keratin Selagem",
-          "start": "",
-          "end": "",
-          "mobile_img": ""
-        },
-        {
           "start": "",
           "end": "",
           "img": "/img/uploads/confira-nossas-promocoes.jpg",
           "link": "https://www.shopcarlaguimaraes.com.br/promocoes/",
           "alt": "Promoções"
+        },
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/banner-juros-1-.png"
+        },
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/banner-frete-gratis-1-.png"
         }
       ]
     },
