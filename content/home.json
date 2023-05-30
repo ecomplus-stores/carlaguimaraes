@@ -10,11 +10,6 @@
         {
           "start": "",
           "end": "",
-          "img": "/img/uploads/banner-juros-1-.png"
-        },
-        {
-          "start": "",
-          "end": "",
           "img": "/img/uploads/banner-frete-gratis-1-.png"
         },
         {
@@ -22,6 +17,11 @@
           "end": "",
           "img": "/img/uploads/azul-engajamento-essencial-blog-banner-1200-300-px-1-1-.png",
           "link": "https://www.shopcarlaguimaraes.com.br/escova-progressiva-fusion-frizz-organicplastia-1000ml---brscience"
+        },
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/banner-juros-1-.png"
         }
       ]
     },
