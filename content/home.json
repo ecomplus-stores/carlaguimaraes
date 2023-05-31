@@ -16,7 +16,7 @@
         {
           "start": "",
           "end": "",
-          "img": "/img/uploads/banner-frete-gratis-1-.png"
+          "img": "/img/uploads/banner-frete-2-1-.png"
         },
         {
           "start": "",
@@ -28,6 +28,12 @@
           "start": "",
           "end": "",
           "img": "/img/uploads/banner-juros-1-.png"
+        },
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/banner-promocoes-1-.png",
+          "link": "https://www.shopcarlaguimaraes.com.br/promocoes/"
         }
       ]
     },
