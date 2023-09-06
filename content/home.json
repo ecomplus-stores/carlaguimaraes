@@ -72,6 +72,18 @@
       "offset": 0,
       "sort": "name",
       "autoplay": 5000
+    },
+    {
+      "type": "review-carousel",
+      "autoplay": 9000,
+      "reviews": [
+        {
+          "nome": "Nome do Cliente",
+          "cidade": "Cidade do Cliente",
+          "texto": "Texto da avalição"
+        }
+      ],
+      "title": "Depoimentos"
     }
   ]
 }
