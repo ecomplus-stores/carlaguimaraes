@@ -86,6 +86,11 @@
           "nome": "Murieni",
           "cidade": "Rio de Janeiro",
           "texto": "Meu pedido chegou. Estou assustada com a rapidez que ele chegou."
+        },
+        {
+          "nome": "Caiane",
+          "cidade": "Bahia",
+          "texto": "Obrigado, chegou tudo perfeito, como sempre vocês arrasam."
         }
       ],
       "title": "Depoimentos"
