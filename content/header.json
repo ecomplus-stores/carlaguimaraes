@@ -20,9 +20,10 @@
       "/combos/?Combos",
       "/equipamentos/?Equipamentos",
       "/promocoes/?Promoções",
-      "/escovas-progressivas-definitivas/?Escovas Progressivas/Definitivas"
+      "/escovas-progressivas-definitivas/?Escovas Progressivas/Definitivas",
+      "/botox/?BTX"
     ],
-    "random": 6,
+    "random": 7,
     "full_width": false
   },
   "search_input": true,
